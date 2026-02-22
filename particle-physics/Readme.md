@@ -1,1 +1,1 @@
-# Particle Physics essentials in Python
+# Particle Physics  and Signal Processing essentials in Python
