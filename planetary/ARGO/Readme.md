@@ -5,5 +5,4 @@ The temperature and Salinity fields in the ocean are part of a complex system. S
 
 Reza Rahemi - ARGO lab UCSD https://argo.ucsd.edu/
 
-<img width="800" height="400" alt="ARGO" src="https://github.com/user-attachments/assets/26fcdd4c-3b1c-497f-b222-2c76eee89a91" />
-<img width="800" height="400" alt="revelle800x400" src="https://github.com/user-attachments/assets/fc0f11f5-8f07-472d-a72b-5a34badda3f3" />
+
